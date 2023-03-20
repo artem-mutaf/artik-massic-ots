@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mutaf massiv fyfyfy/1.0.0": {
+        "runtime": {
+          "mutaf massiv fyfyfy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mutaf massiv fyfyfy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.exe
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.deps.json
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.runtimeconfig.json
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.runtimeconfig.dev.json
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.dll
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\ref\mutaf massiv fyfyfy.dll
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\bin\Debug\net5.0\mutaf massiv fyfyfy.pdb
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.csprojAssemblyReference.cache
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.AssemblyInfoInputs.cache
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.AssemblyInfo.cs
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.csproj.CoreCompileInputs.cache
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.dll
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\ref\mutaf massiv fyfyfy.dll
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.pdb
+D:\Мутаф\artik-massic-ots\mutaf massiv fyfyfy\obj\Debug\net5.0\mutaf massiv fyfyfy.genruntimeconfig.cache
